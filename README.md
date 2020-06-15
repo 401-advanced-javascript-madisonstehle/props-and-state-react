@@ -6,9 +6,9 @@
 
 ### Links and Resources
 
-- [submission PR]()
-- [app code in codesandbox]()
-- [front-end application]()
+- [submission PR](https://github.com/madisonstehle/props-and-state-react/pull/1)
+- [app code in codesandbox](https://codesandbox.io/s/props-and-state-react-u7hwk?file=/src/App.js)
+- [front-end application](https://u7hwk.codesandbox.io/)
 
 ### Setup
 
