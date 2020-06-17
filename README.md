@@ -17,10 +17,6 @@
 - If using on a local machine, `npm start` will start the app on localhost.
 - Otherwise, the link above to the front-end application will take you to the site.
 
-#### Tests
-
-Not Applicable for this lab.
-
 #### UML
 
-![Lab 23 UML Diagram]()
+![Lab 23 UML Diagram](./assets/401n16-lab23.png)
